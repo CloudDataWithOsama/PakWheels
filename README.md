@@ -6,6 +6,8 @@
 
 An end-to-end data engineering project that scrapes used car listings from **PakWheels Karachi**, cleans the raw data using advanced Python techniques, and prepares a structured dataset for analysis.
 
+![alt text](image.png)
+
 ## **🚀 Project Overview**
 This project automates the collection of car market data from PakWheels. It handles everything from bypassing bot detection to converting complex string-based prices (lacs/crore) into clean numeric values.
 
