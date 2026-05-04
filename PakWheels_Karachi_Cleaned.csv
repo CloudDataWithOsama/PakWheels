@@ -1,0 +1,233 @@
+Car Name,City,Year,Mileage,Fuel,Engine,Transmission,Price (PKR)
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
+Suzuki Alto VXR (CNG),Karachi,2010,168033.0,CNG,1000.0,Manual,1350000.0
+Porsche Cayenne Base Model,Karachi,2013,79000.0,Petrol,3000.0,Automatic,17500000.0
+Mercedes Benz EQS 450 4MATIC,Karachi,2022,4800.0,Electric,107.0,Automatic,40000000.0
+Audi e-tron GT Standard,Karachi,2022,2500.0,Electric,93.4,Automatic,32500000.0
+Mercedes Benz C Class C180 AMG,Karachi,2017,50000.0,Petrol,1600.0,Automatic,13500000.0
+Ford Mustang GT,Karachi,2018,30000.0,Petrol,4951.0,Automatic,38000000.0
+Toyota Hilux D-4D Automatic,Karachi,2013,91000.0,Diesel,3000.0,Automatic,7350000.0
+Suzuki Cultus VXR,Karachi,2018,74908.0,Petrol,1000.0,Manual,2480000.0
+Suzuki Cultus Auto Gear Shift,Karachi,2022,36000.0,Petrol,1000.0,Automatic,3590000.0
+Toyota Raize Z,Karachi,2020,34000.0,Petrol,1000.0,Automatic,6200000.0
+Nissan Dayz Highway Star X ProPilot,Karachi,2021,58425.0,Hybrid,660.0,Automatic,3650000.0
+Toyota Corolla Altis Automatic 1.6,Karachi,2021,55000.0,Petrol,1600.0,Automatic,5100000.0
+KIA Sportage FWD,Karachi,2023,31000.0,Petrol,2000.0,Automatic,7150000.0
+Toyota Vitz F 1.0,Karachi,2013,135000.0,Petrol,1000.0,Automatic,2700000.0
+Nissan Note 1.2E,Karachi,2020,80000.0,Hybrid,1198.0,Automatic,4500000.0
+Suzuki Alto GII,Karachi,2007,120600.0,Petrol,660.0,Automatic,1590000.0
+Suzuki Bolan GL,Karachi,2002,105.0,Petrol,800.0,Manual,520000.0
+Honda City i-DSI Vario,Karachi,2004,126000.0,Petrol,1300.0,Automatic,1820000.0
+KIA Classic LX,Karachi,2003,199999.0,LPG,1323.0,Manual,450000.0
+Daihatsu Mira X Special,Karachi,2015,75000.0,Petrol,660.0,Automatic,2550000.0
+Toyota Vitz U 1.0,Karachi,2010,122000.0,Petrol,1000.0,Automatic,2290000.0
+Honda Civic Oriel 1.8 i-VTEC CVT,Karachi,2017,87000.0,Petrol,1800.0,Automatic,4350000.0
+Suzuki Khyber GA,Karachi,1994,400000.0,Petrol,1000.0,Manual,250000.0
+Toyota Yaris Sedan ATIV CVT 1.3,Karachi,2021,51000.0,Petrol,1300.0,Automatic,4500000.0
+Suzuki Mehran VXR,Karachi,2003,150000.0,Petrol,800.0,Manual,395000.0
+Suzuki Swift GLX CVT,Karachi,2023,60000.0,Petrol,1200.0,Automatic,4300000.0
